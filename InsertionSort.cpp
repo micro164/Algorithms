@@ -1,3 +1,9 @@
+/*
+Author: Jonathon Bryant
+
+Description: This is a program that uses insertion sort. It builds the sorted
+array one item at a time.
+*/
 #include<iostream>
 #include<cstdlib>
 

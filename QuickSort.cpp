@@ -1,3 +1,9 @@
+/*
+Author: Jonathon Bryant
+
+Description: The program uses quicksort to sort an array. This algorithm uses
+a pivot point to sort all of the items.
+*/
 #include<iostream>
 
 int *quicksort(int A[], int low, int high);

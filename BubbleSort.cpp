@@ -1,3 +1,11 @@
+/*
+Author: Jonathon Bryant
+
+Description: This is code for the algorithm Bubble Sort. This means that the
+algorithm keeps going through the list that it is trying to sort and compares
+each pair of adjacent items. It then swaps the items if they are in the wrong
+order.
+*/
 #include<iostream>
 
 int *bubbleSort(int A[], int size);

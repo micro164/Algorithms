@@ -1,3 +1,9 @@
+/*
+Author: Jonathon Bryant
+
+Description: This is a program that uses the counting sort algorithm. Which is
+to say that it uses indexs to calculate where each item should be placed.
+*/
 #include<iostream>
 
 int *countingSort(int A[], int min, int max, int size);

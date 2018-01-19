@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+#Author: Jonathon Bryant
+
+#Description: Merge sort keeps spliting the array into subarrays until they are
+#down to one item per sub array and then it merges them all back together but
+#this time it does so in order.
+
 # Code for the merge subroutine
 def merge(a,b):
     """ Function to merge two arrays """

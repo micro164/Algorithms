@@ -1,3 +1,11 @@
+/*
+Author: Jonathon Bryant
+
+Description: This program uses selection sort to sort an array. It is an
+algorithm that divides the items into two parts, one is the sorted part and the
+other is the unsorted part. It keeps moving items into the sorted part until
+there are no other items left.
+*/
 #include<iostream>
 
 using namespace std;
